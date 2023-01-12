@@ -1,0 +1,41 @@
+.logoImg {
+    width: 84px;
+}
+
+.aboutContainer {
+    background: url(../images/resource/img-1.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 0px !important;
+}
+
+.insideAboutContainer {
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.650);
+}
+
+.insideAboutContainer p {
+    color: white;
+    text-align: center;
+    height: 268px;
+    padding: 13px;
+}
+
+.serviceContainer {
+    background: url(../images/resource/img-2.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 0px !important;
+}
+
+.insideServiceContainer {
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.650);
+}
+
+.insideServiceContainer p {
+    color: white;
+    text-align: center;
+    height: 268px;
+    padding: 13px;
+}
